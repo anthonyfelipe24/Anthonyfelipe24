@@ -50,8 +50,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/anthonyfelipe24/anthonyfelipe24/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -59,7 +57,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=anthonyfelipe24.anthonyfelipe24&"  />
+  <img src="https://profile-counter.glitch.me/anthonyfelipe24/count.svg?"  />
 </div>
 
 ###
