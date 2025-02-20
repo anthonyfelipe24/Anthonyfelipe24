@@ -51,7 +51,7 @@
   </a>
 </div>
 <HR>
-###
+
 
 <img src="https://raw.githubusercontent.com/anthonyfelipe24/anthonyfelipe24/output/snake.svg" alt="Snake animation" />
 
