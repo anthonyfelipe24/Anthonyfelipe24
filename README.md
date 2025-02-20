@@ -2,7 +2,11 @@
 
 ###
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthonyfelipe24&theme=graywhite&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anthonyfelipe24&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) [![GitHub Streak](https://streak-stats.demolab.com/?user=anthonyfelipe24&theme=graywhite&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anthonyfelipe24&theme=graywhite&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" width="32%"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anthonyfelipe24&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" width="32%"/>
+  <img src="https://streak-stats.demolab.com/?user=anthonyfelipe24&theme=graywhite&background=000&border=30A3DC&dates=FFF" width="32%"/>
+</div>
 
 ###
 
