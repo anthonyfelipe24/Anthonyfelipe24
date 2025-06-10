@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋! My name is Anthony, systems analysis and development student</h2>
+<h2 align="left">Olá 👋! Meu nome é Anthony Felipe, Sou Estudante de Análise e Desenvolvimento de Sistemas</h2>
 
 ###
 
