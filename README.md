@@ -5,6 +5,7 @@
 <div align="center">
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=anthonyfelipe24&theme=graywhite&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" width="50%"/>
+    <img src= "https://streak-stats.demolab.com?user=Anthonyfelipe24&border_radius=5&locale=pt_BR&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" width=40%/>
   </div>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Anthonyfelipe24&theme=dark&show_icons=true" width="60%"/>
