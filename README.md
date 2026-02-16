@@ -6,8 +6,7 @@
   <div>
     <img src="https://streak-stats.demolab.com?user=Anthonyfelipe24&theme=dark&hide_border=falso&border_radius=5&locale=pt_BR&short_numbers=falso&mode=weekly&hide_longest_streak=true" width=50%/>
   </div>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Anthonyfelipe24&theme=dark&show_icons=true" width="60%"/>
+ 
 </div>
 
 
