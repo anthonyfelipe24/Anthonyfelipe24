@@ -99,10 +99,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-o
     style="padding-right: 10px;"
     align="left"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-          
+
+---          
+
 <br/>
 <br/> 
----
+
+
 
 ### 📊 Estatísticas
 <p>
