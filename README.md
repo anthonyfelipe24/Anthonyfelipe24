@@ -121,10 +121,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=anthonyfelipe24&custom_title=Tecnologias&langs_count=9" />
 <p/> 
 
-<br/>
+
+ <br/>
 <br/> 
-          
-###
 **Contatos** <HR>
 <div align="left">
   <a href="https://www.instagram.com/anthony.felip_/" target="_blank">
@@ -150,4 +149,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 <br clear="both">
 
 
-###
+###         
