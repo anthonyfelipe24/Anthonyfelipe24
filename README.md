@@ -119,9 +119,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
     alt="Github Stats"
     height="200"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=anthonyfelipe24&custom_title=Tecnologias&langs_count=9" />
-<p/>          
-          
+<p/> 
 
+<br/>
+<br/> 
+          
 ###
 **Contatos** <HR>
 <div align="left">
