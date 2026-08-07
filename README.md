@@ -1,40 +1,129 @@
-<h2 align="left">Olá 👋! Meu nome é Anthony Felipe, Sou Estudante de Análise e Desenvolvimento de Sistemas</h2>
+# 🧑‍💻 Anthony Felipe
+
+**`Desenvolvedor JAVA `**
+
+🚀 Sou formado em Análise e Desenvolvimento de Sistemas e em Administração de Empresas, com foco em construir uma carreira como Desenvolvedor Backend Java.
+ 
+💻 Principais competências:
+ • Java (Programação Orientada a Objetos)
+ • HTML5, CSS3 e JavaScript
+ • Git e GitHub
+ • Scrum e Kanban
+ • Fundamentos de Computação em Nuvem (AWS)
+ • Excel intermediário
+ • IA aplicada à automação e produtividade
+ 
+Estou em constante evolução, aprofundando meus conhecimentos em desenvolvimento backend, boas práticas de programação e tecnologias do ecossistema Java. 
+
+---
+### 🤖 Linguagens e Tcnologias
+
+ 
+ <img 
+    alt="HTML"
+    title="HTML"
+    widTH="30px"
+    style="padding-right: 10px;"
+    align="left"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+ 
+<img 
+    alt="CSS"
+    title="CSS"
+    widTH="30px"
+    style="padding-right: 10px;"
+    align="left"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+
+
+<img 
+    alt="JAVASCRIPT"
+    title="JAVASCRIPT"
+    widTH="30px"
+    style="padding-right: 10px;"
+    align="left"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+
+<img
+    alt="GIT"
+    title="GIT"
+    widTH="30px"
+    style="padding-right: 10px;"
+    align="left" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+
+<img 
+    alt="GIT"
+    title="GIT"
+    widTH="30px"
+    style="padding-right: 10px;"
+    align="left" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+
+
+<img 
+    alt="JAVA"
+    title="JAVA"
+    widTH="30px"
+    style="padding-right: 10px;"
+    align="left"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
+    
+<img 
+    alt="INTELLIJ"
+    title="INTELLIJ"
+    widTH="30px"
+    style="padding-right: 10px;"
+    align="left"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+
+
+<img 
+    alt="ECLIPSE"
+    title="ECLIPSE"
+    widTH="30px"
+    style="padding-right: 10px;"
+    align="left"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+
+          
+<img 
+    alt="VSCODE"
+    title="VSCODE"
+    widTH="30px"
+    style="padding-right: 10px;"
+    align="left"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+          
+<br/>
+<br/> 
+
+### 📊 Estatísticas
+<p>
+<img 
+    align="left"
+    alt="Github Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-stats-extended.vercel.app/api?username=anthonyfelipe24&include_all_commits=true&locale=pt-br" />
+<p/>
+          
+<p>
+<img 
+    align="left"
+    alt="Github Stats"
+    height="200"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=anthonyfelipe24&custom_title=Tecnologias&langs_count=9" />
+<p/>          
+          
 
 ###
-
-<div align="center">
-  <div>
-    <img src="https://streak-stats.demolab.com?user=Anthonyfelipe24&theme=dark&hide_border=falso&border_radius=5&locale=pt_BR&short_numbers=falso&mode=weekly&hide_longest_streak=true" width=50%/>
-  </div>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Anthonyfelipe24&theme=dark&show_icons=true" width="60%"/>
-</div>
-
-
-###
-
-###
-**My Skills** <HR>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="30" alt="eclipseide logo"  />
-  <img width="12" />
-
-</div>
-
-###
-**Contact Me** <HR>
+**Contatos** <HR>
 <div align="left">
   <a href="https://www.instagram.com/anthony.felip_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
