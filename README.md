@@ -16,7 +16,7 @@
 Estou em constante evolução, aprofundando meus conhecimentos em desenvolvimento backend, boas práticas de programação e tecnologias do ecossistema Java. 
 
 ---
-### 🤖 Linguagens e Tcnologias
+### 🤖 Linguagens e Tecnologias
 
  
  <img 
